@@ -73,6 +73,6 @@ Although even after the first iterations the reconstructed image looks good, we 
 Examples for the head phantom image:
 
 <p align="center"">
-  <img src="https://github.com/HadarPur/RU-HC-CTReconstruction/blob/main/figs/fig10.png" alt="drawing" width="800"/>
+  <img src="https://github.com/HadarPur/RU-HC-CTReconstruction/blob/main/figs/fig10.png" alt="drawing" width="600"/>
 </p>
 
