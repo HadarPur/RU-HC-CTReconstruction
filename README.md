@@ -61,7 +61,7 @@ Examples for the head phantom with and without filters on different number of an
 
 
 <p align="center"">
-  <img src="https://github.com/HadarPur/RU-HC-CTReconstruction/blob/main/figs/fig9.1.png" alt="drawing" width="820"/>
+  <img src="https://github.com/HadarPur/RU-HC-CTReconstruction/blob/main/figs/fig9.1.png" alt="drawing" width="800"/>
 </p>
 
 
