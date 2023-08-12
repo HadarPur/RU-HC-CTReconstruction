@@ -14,15 +14,15 @@ Step 1 provides an understanding of the radon transform, sinogram generation, an
 
 
 <p align="center"">
-  <img src="https://github.com/HadarPur/RU-HC-CTReconstruction/blob/main/figs/fig1.png" alt="drawing" width="800"/>
+  <img src="https://github.com/HadarPur/RU-HC-CTReconstruction/blob/main/figs/fig1.png" alt="drawing" width="500"/>
 </p>
 
 <p align="center"">
-  <img src="https://github.com/HadarPur/RU-HC-CTReconstruction/blob/main/figs/fig2.png" alt="drawing" width="800"/>
+  <img src="https://github.com/HadarPur/RU-HC-CTReconstruction/blob/main/figs/fig2.png" alt="drawing" width="500"/>
 </p>
 
 <p align="center"">
-  <img src="https://github.com/HadarPur/RU-HC-CTReconstruction/blob/main/figs/fig3.png" alt="drawing" width="800"/>
+  <img src="https://github.com/HadarPur/RU-HC-CTReconstruction/blob/main/figs/fig3.png" alt="drawing" width="500"/>
 </p>
 
 ## Angle Reconstruction
